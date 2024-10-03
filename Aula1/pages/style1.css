@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(rgb(216, 216, 255), rgb(255, 210, 210), rgb(216, 216, 255));
+
+}
+h1{
+    color: rgb(45, 45, 100);
+}
+section{
+    min-width: 100vh;
+}
